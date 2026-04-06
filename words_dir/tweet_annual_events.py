@@ -47,12 +47,14 @@ events = {
     '05-30': 'Christine Jorgensen was an American trans woman who was the first person to become widely known for having sex reassignment surgery. \n #ChristineJorgensenDay', # https://en.wikipedia.org/wiki/Christine_Jorgensen
 
     # June
+    '06-05': 'Aromantic Visibility Day 💚🤍🩶🖤', #https://en.wikipedia.org/wiki/Aromanticism#Aromantic_Visibility_Day
     '06-12': 'Pulse Night of Remembrance',  # https://www.northshorepride.org/event/pulse-night-of-remembrance/
     '06-20': 'Edith "Edie" Windsor was an American LGBT rights activist and a technology manager at IBM. \n #EdithWindsorDay', # https://en.wikipedia.org/wiki/Edith_Windsor
     '06-23': 'Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. \n #AlanTuringDay', # https://en.wikipedia.org/wiki/Alan_Turing
 
     # July
     '07-14': 'International Non-Binary People\'s Day 💛🤍💜🖤',  # https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day
+    '07-16': 'International Drag Day', # https://en.wikipedia.org/wiki/International_Drag_Day
     '07-31': 'Barbara Gittings was a prominent American activist for LGBT equality. \n #BarbaraGittingsDay', # https://en.wikipedia.org/wiki/Barbara_Gittings
 
     # August
@@ -84,6 +86,7 @@ events = {
     '10-28': 'Asexual Awareness Week 🖤💜🤍',  # http://www.asexualawarenessweek.com/index.html
     '10-29': 'the day for not so regularly scheduled testing in production. \n \nIf you see this, it was a success and we will soon see tweets for remembrance, (inter)national, & Visibility Days/weeks',
     '10-5F': 'a good day for testing yet another feature in production. We now support annual events with variable dates like "5th Friday of October"',
+    '10-3W': 'Pronouns Day', # https://pronouns.org/day
 
     # November
     '11-1U': 'Trans Parent Day',  # http://transparentday.org/
